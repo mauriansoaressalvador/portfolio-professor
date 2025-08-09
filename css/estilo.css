@@ -87,6 +87,7 @@ ul {
   font-size: 0.75rem;
   /* tamanho da Fonte */
   font-weight: 600;
+  font-family: ;
 }
 
 .menu-link.active .menu-texto,
